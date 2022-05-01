@@ -36,3 +36,11 @@ https://en.wikipedia.org/wiki/General_MIDI#Percussion
 https://en.wikipedia.org/wiki/General_MIDI#Controller_events
 https://www.midi.org/specifications/midi1-specifications/general-midi-specifications/general-midi-1/general-midi-level-1-2
 https://en.wikipedia.org/wiki/General_MIDI_Level_2#Supported_Control_Change_messages
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
