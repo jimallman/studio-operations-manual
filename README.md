@@ -1,3 +1,5 @@
+# Studio operations manual
+
 This manual is intended as a practical reference to manage Interrobang Studio,
 a small in-house setup for creating music, audio design, and multimedia
 performances. It will be versioned to track the studio's evolution over time,
@@ -37,7 +39,7 @@ https://en.wikipedia.org/wiki/General_MIDI#Controller_events
 https://www.midi.org/specifications/midi1-specifications/general-midi-specifications/general-midi-1/general-midi-level-1-2
 https://en.wikipedia.org/wiki/General_MIDI_Level_2#Supported_Control_Change_messages
 
-This work is licensed under a
+This work is [licensed](LICENSE) under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
