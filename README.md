@@ -25,6 +25,7 @@ Manual contents include:
   - network diagrams for hardware, protocols, servers and hubs
     - clarify rules for traditional MIDI, MIDI-over-USB, etc.
       ? how to MIDI devices and ports work over USB?
+    - TRY [text-based diagrams with Mermaid][mermaid]
   - links to supporting standards and conventions, e.g. MIDI
   - contact information for vendor support
       - NOT warranty and licenses info, which are best kept private
@@ -33,6 +34,16 @@ Manual contents include:
       - packing/setup checklists for rehearsal and stage
   - troubleshooting and emergency procedures (ideally on paper)
 
+How hard is it to include text-based diagrams? 
+```mermaid
+graph TD
+    A[Christmas] --> |Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
+    
 https://en.wikipedia.org/wiki/Operations_manual
 https://en.wikipedia.org/wiki/General_MIDI#Percussion
 https://en.wikipedia.org/wiki/General_MIDI#Controller_events
@@ -46,3 +57,4 @@ This work is [licensed](LICENSE) under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[mermaid]: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
